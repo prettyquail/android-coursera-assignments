@@ -1,6 +1,6 @@
 #Build Your First Android App (Project-Centered Course) by CentraleSupélec
 
-
+![](image/logo-coursera.jpg)
 About this Course
 What you’ll achieve:
 
